@@ -13,6 +13,9 @@ public class MpDemoApplication {
         System.out.println("hello mp...1");
         System.out.println("hello mp...2");
         System.out.println("hello mp...3");
+        System.out.println("hello mp...55555555");
+        System.out.println("hello mp...66666666");
+
     }
 
 }
