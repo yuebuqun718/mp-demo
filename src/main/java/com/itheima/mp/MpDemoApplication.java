@@ -10,6 +10,9 @@ public class MpDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MpDemoApplication.class, args);
+        System.out.println("hello mp...1");
+        System.out.println("hello mp...2");
+        System.out.println("hello mp...3");
     }
 
 }
