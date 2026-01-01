@@ -18,6 +18,7 @@ public class MpDemoApplication {
         System.out.println("hello mp...88888888");
         System.out.println("hello mp...99999999");
         System.out.println("master test...");
+        System.out.println("hot-fix test...");
     }
 
 }
