@@ -23,6 +23,9 @@ public class MpDemoApplication {
         System.out.println("hot-fix test2...");
         System.out.println("lhc-fix lhc-fix lhc-fix");
         System.out.println("lhc-fix lhc-fix lhc-fix");
+        //lhc 开发新功能
+        System.out.println("lhc lhc lhc lhc lhc lhc lhc lhc");
+
     }
 
 }
