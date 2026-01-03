@@ -31,6 +31,7 @@ public class MpDemoApplication {
         System.out.println("gitee test gitee test gitee test");
         //ybq 继续开发
         System.out.println("1111 ybq continue ybq continue ybq continue");
+        System.out.println("3333 ybq continue ybq continue ybq continue");
     }
 
 }
