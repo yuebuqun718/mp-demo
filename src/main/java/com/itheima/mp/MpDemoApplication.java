@@ -21,6 +21,8 @@ public class MpDemoApplication {
         System.out.println("hot-fix test...");
         System.out.println("master test2...");
         System.out.println("hot-fix test2...");
+        System.out.println("lhc-fix lhc-fix lhc-fix");
+        System.out.println("lhc-fix lhc-fix lhc-fix");
     }
 
 }
