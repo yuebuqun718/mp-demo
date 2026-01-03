@@ -25,6 +25,9 @@ public class MpDemoApplication {
         System.out.println("lhc-fix lhc-fix lhc-fix");
         //ybq 开发新功能
         System.out.println("ybq ybq ybq ybq ybq ybq ybq ybq");
+        //lhc 开发新功能
+        System.out.println("lhc lhc lhc lhc lhc lhc lhc lhc");
+
     }
 
 }
