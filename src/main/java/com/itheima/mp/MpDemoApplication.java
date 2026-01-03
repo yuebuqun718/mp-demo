@@ -27,7 +27,8 @@ public class MpDemoApplication {
         System.out.println("ybq ybq ybq ybq ybq ybq ybq ybq");
         //lhc 开发新功能
         System.out.println("lhc lhc lhc lhc lhc lhc lhc lhc");
-
+        //gitee test
+        System.out.println("gitee test gitee test gitee test");
     }
 
 }
