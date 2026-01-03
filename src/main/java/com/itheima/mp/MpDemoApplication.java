@@ -32,6 +32,8 @@ public class MpDemoApplication {
         //ybq 继续开发
         System.out.println("1111 ybq continue ybq continue ybq continue");
         System.out.println("3333 ybq continue ybq continue ybq continue");
+        //新功能git-lab
+        System.out.println("git-lab test git-lab test git-lab test");
     }
 
 }
